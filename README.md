@@ -57,5 +57,10 @@ Projede aşağıdaki Python kütüphaneleri kullanılmıştır:
 - `np.ascontiguousarray()` kullanımı, sklearn'un beklediği formatta veri sağlamak için eklenmiştir.
 - Alternatif modeller (SVM, Decision Tree, Random Forest vb.) ile kıyaslanarak farklı sonuçlar elde edilebilir.
 
-Bu proje, makine öğrenmesi konusuna giriş yapmak isteyenler için güzel bir başlangıç olacaktır. 
+Bu proje, makine öğrenmesi konusuna giriş yapmak isteyenler için güzel bir başlangıç olacaktır. Ayrıca kaynak olarak DataI Kaggle sayfasını da
+kaynak olarak kullandığımı belirtmek isterim. İlgili sayfaya https://www.kaggle.com/kanncaa1 linki ile ulaşabilirsiniz. 
+İyi çalışmalar... :)
+
+Yazar: [Kadir Özan]
+Tarih: [5.03.2025]
 
